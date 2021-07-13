@@ -1,0 +1,6 @@
+2021-07-10 17:05:14	admin	http://localhost:8888/processwire/page/sort/	Updated sort for 8 pages
+2021-07-10 17:05:18	admin	http://localhost:8888/processwire/page/sort/	Updated sort for 4 pages
+2021-07-10 17:05:25	admin	http://localhost:8888/processwire/page/sort/	Updated sort for 2 pages
+2021-07-10 17:05:29	admin	http://localhost:8888/processwire/page/sort/	Updated sort for 8 pages
+2021-07-11 11:53:41	admin	http://localhost:8888/processwire/page/sort/	Updated sort for 9 pages
+2021-07-12 16:40:28	admin	http://localhost:8888/processwire/page/sort/	Updated sort for 7 pages

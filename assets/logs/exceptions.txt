@@ -1,0 +1,2 @@
+2021-07-10 16:36:33	admin	http://localhost:8888/processwire/page/edit/?id=1&modal=1&field=images&uploadOnlyMode=1&InputfieldFileAjax=1	Invalid image (in /wire/modules/Inputfield/InputfieldFile/InputfieldFile.module line 853)
+2021-07-10 16:36:37	admin	http://localhost:8888/processwire/page/edit/?id=1&modal=1&field=images&uploadOnlyMode=1&InputfieldFileAjax=1	Invalid image (in /wire/modules/Inputfield/InputfieldFile/InputfieldFile.module line 853)

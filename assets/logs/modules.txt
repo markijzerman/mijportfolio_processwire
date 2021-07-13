@@ -1,0 +1,29 @@
+2021-07-10 16:31:22	?	?	Saved module 'SystemUpdater' config data
+2021-07-10 16:31:23	?	?	Saved module info caches
+2021-07-10 16:31:23	guest	http://localhost:8888/http404/	Saved module info caches
+2021-07-10 16:31:23	guest	http://localhost:8888/http404/	Installed module 'ProcessRecentPages'
+2021-07-10 16:31:23	guest	http://localhost:8888/http404/	Saved module info caches
+2021-07-10 16:31:23	guest	http://localhost:8888/http404/	Saved module 'SystemUpdater' config data
+2021-07-10 16:31:23	guest	http://localhost:8888/http404/	Saved module info caches
+2021-07-10 16:31:23	guest	http://localhost:8888/http404/	Installed module 'AdminThemeUikit'
+2021-07-10 16:31:23	guest	http://localhost:8888/http404/	Saved module info caches
+2021-07-10 16:31:35	guest	http://localhost:8888/http404/	Saved module info caches
+2021-07-10 16:31:35	guest	http://localhost:8888/http404/	Installed module 'ProcessLogger'
+2021-07-10 16:31:35	guest	http://localhost:8888/http404/	Saved module info caches
+2021-07-10 16:31:35	guest	http://localhost:8888/http404/	Installed module 'InputfieldIcon'
+2021-07-10 16:31:35	guest	http://localhost:8888/http404/	Saved module info caches
+2021-07-10 16:31:35	guest	http://localhost:8888/http404/	Saved module 'SystemUpdater' config data
+2021-07-10 16:31:36	guest	http://localhost:8888/http404/	Saved module info caches
+2021-07-10 16:31:39	guest	http://localhost:8888/processwire/login/	Saved module 'ProcessProfile' config data
+2021-07-10 16:31:39	guest	http://localhost:8888/processwire/login/	Saved module 'SystemUpdater' config data
+2021-07-10 16:31:47	?	?	Saved module 'SystemUpdater' config data
+2021-07-10 16:31:47	?	?	Saved module info caches
+2021-07-10 16:31:47	guest	http://localhost:8888/processwire/login/	Saved module 'SystemUpdater' config data
+2021-07-10 16:31:48	admin	http://localhost:8888/processwire/?login=1	Saved module 'SystemUpdater' config data
+2021-07-10 16:31:49	?	?	Saved module info caches
+2021-07-10 16:31:49	?	?	Saved module 'SystemUpdater' config data
+2021-07-10 16:31:49	?	?	Saved module info caches
+2021-07-10 16:31:49	admin	http://localhost:8888/processwire/page/?login=1	Saved module 'SystemUpdater' config data
+2021-07-10 16:31:50	admin	http://localhost:8888/processwire/page/list/?id=1&render=JSON&start=0&lang=0&open=undefined&mode=actions	Saved module 'SystemUpdater' config data
+2021-07-10 16:31:59	admin	http://localhost:8888/	Saved module 'SystemUpdater' config data
+2021-07-11 23:07:44	admin	http://localhost:8888/processwire/module/edit?name=JqueryCore	Saved module 'JqueryCore' config data
