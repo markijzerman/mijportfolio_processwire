@@ -39,8 +39,12 @@ function renderNav(\ProcessWire\PageArray $items) {
 		// RENDER IMG
 		if($item->images->count > 0) echo "<a href='$item->url'><img src='{$item->images->first()->url}' /></a>";
 
-		// markup for the link
-		echo "<div class='projectlink'><a href='$item->url'>$item->title</a></div>";
+		// markup for the link, include year only when it has one
+		echo "<div class='projectlink'><a href='$item->url'>$item->title";
+		// if($item->year != '') {
+		// 	echo " ($item->year)</a></div>";
+		// }
+
 
 		// if the item has summary text, include that too
 		if($item->summary) echo "<div class='summary'>$item->summary</div>";
@@ -61,7 +65,7 @@ function renderNav(\ProcessWire\PageArray $items) {
  * @param int $maxDepth How many levels of navigation below current should it go?
  *
  */
-function renderNavTree($items, $maxDepth = 3) {
+function renderNavTree($items, $maxDepth = 1) {
 
 	// if we've been given just one item, convert it to an array of items
 	if($items instanceof \ProcessWire\Page) $items = array($items);
@@ -89,6 +93,9 @@ function renderNavTree($items, $maxDepth = 3) {
 
 		// markup for the link
 		echo "<a href='$item->url'>$item->title</a>";
+		if($item->year != '') {
+			echo " ($item->year)</a></div>";
+		}
 
 		// if the item has children and we're allowed to output tree navigation (maxDepth)
 		// then call this same function again for the item's children 

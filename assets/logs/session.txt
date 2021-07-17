@@ -9,3 +9,27 @@
 2021-07-12 16:39:45	admin	http://localhost:8888/processwire/login/	Successful login for 'admin'
 2021-07-12 16:43:44	admin	http://localhost:8888/processwire/login/logout/	Logout for 'admin'
 2021-07-12 18:26:41	admin	http://localhost:8888/processwire/login/	Successful login for 'admin'
+2021-07-13 10:31:40	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 0.0.0.0)
+2021-07-13 21:06:16	admin	http://localhost:8888/processwire/login/?id=1	Successful login for 'admin'
+2021-07-13 21:13:05	admin	http://localhost:8888/processwire/login/	Successful login for 'admin'
+2021-07-13 21:43:35	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 0.0.0.0)
+2021-07-13 21:45:27	admin	http://localhost:8888/processwire/login/	Successful login for 'admin'
+2021-07-15 00:20:53	admin	http://localhost:8888/processwire/login/logout/	Logout for 'admin'
+2021-07-15 00:29:23	admin	http://localhost:8888/processwire/login/	Successful login for 'admin'
+2021-07-17 22:11:22	?	?	User 'admin' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2021-07-17 22:19:18	admin	http://localhost:8888/processwire/login/	Successful login for 'admin'
+2021-07-17 22:34:59	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 0.0.0.0)
+2021-07-17 22:37:20	admin	http://localhost:8888/processwire/login/?id=99	Successful login for 'admin'
+2021-07-17 22:37:23	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 0.0.0.0)
+2021-07-17 22:37:51	admin	http://localhost:8888/processwire/login/	Successful login for 'admin'
+2021-07-17 22:38:28	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 0.0.0.0)
+2021-07-17 22:39:35	admin	http://localhost:8888/processwire/login/	Successful login for 'admin'
+2021-07-17 22:40:05	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 0.0.0.0)
+2021-07-17 22:42:30	admin	http://localhost:8888/processwire/login/	Successful login for 'admin'
+2021-07-17 22:43:07	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 0.0.0.0)
+2021-07-17 22:45:01	admin	http://localhost:8888/processwire/login/	Successful login for 'admin'
+2021-07-17 22:46:30	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 0.0.0.0)
+2021-07-17 22:47:39	admin	http://localhost:8888/processwire/login/	Successful login for 'admin'
+2021-07-17 22:48:33	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 0.0.0.0)
+2021-07-17 22:49:49	admin	http://localhost:8888/processwire/login/	Successful login for 'admin'
+2021-07-17 23:09:17	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 0.0.0.0)

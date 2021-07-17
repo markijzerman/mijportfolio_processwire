@@ -1,2 +1,8 @@
 2021-07-10 16:36:33	admin	http://localhost:8888/processwire/page/edit/?id=1&modal=1&field=images&uploadOnlyMode=1&InputfieldFileAjax=1	Invalid image (in /wire/modules/Inputfield/InputfieldFile/InputfieldFile.module line 853)
 2021-07-10 16:36:37	admin	http://localhost:8888/processwire/page/edit/?id=1&modal=1&field=images&uploadOnlyMode=1&InputfieldFileAjax=1	Invalid image (in /wire/modules/Inputfield/InputfieldFile/InputfieldFile.module line 853)
+2021-07-13 21:46:42	admin	http://localhost:8888/processwire/page/edit/?id=1025&InputfieldFileAjax=1	This request was aborted because it appears to be forged. (in /wire/core/SessionCSRF.php line 191)
+2021-07-13 21:47:04	admin	http://localhost:8888/processwire/page/edit/?id=1025&InputfieldFileAjax=1	This request was aborted because it appears to be forged. (in /wire/core/SessionCSRF.php line 191)
+2021-07-13 21:47:12	admin	http://localhost:8888/processwire/page/edit/?id=1025&InputfieldFileAjax=1	This request was aborted because it appears to be forged. (in /wire/core/SessionCSRF.php line 191)
+2021-07-13 21:47:37	admin	http://localhost:8888/processwire/page/edit/?id=1025	This request was aborted because it appears to be forged. (in /wire/core/SessionCSRF.php line 191)
+2021-07-14 10:32:41	admin	http://localhost:8888/theater/	Method Page::hasParent does not exist or is not callable in this context (in /wire/core/Wire.php line 544)
+2021-07-14 10:32:41	admin	http://localhost:8888/http404/	Method Page::hasParent does not exist or is not callable in this context (in /wire/core/Wire.php line 544)

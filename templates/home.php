@@ -4,26 +4,26 @@ include('./_head.php'); // include header markup ?>
 
 <style>
 .topnav a {		
-	-webkit-text-stroke: 1px black;
+	/*-webkit-text-stroke: 1px black;*/
    		color: white;
-		  text-shadow:
+/*		  text-shadow:
 		       3px 3px 0 #000,
 		     -1px -1px 0 #000,  
 		      1px -1px 0 #000,
 		      -1px 1px 0 #000,
 		       1px 1px 0 #000;
-
+*/
 		  }
 
 .title h1 a {
-		-webkit-text-stroke: 1px black;
+		/*-webkit-text-stroke: 1px black;*/
    		color: white;
-		  text-shadow:
+/*		  text-shadow:
 		       3px 3px 0 #000,
 		     -1px -1px 0 #000,  
 		      1px -1px 0 #000,
 		      -1px 1px 0 #000,
-		       1px 1px 0 #000;
+		       1px 1px 0 #000;*/
 }
 
 .titleslider a {
